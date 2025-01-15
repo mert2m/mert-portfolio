@@ -92,6 +92,6 @@ MIT License
 ## Author
 
 Mert Polat
-- LinkedIn: [mertpolat](https://linkedin.com/in/mertpolat)
-- GitHub: [mertpolat](https://github.com/mertpolat)
-- Twitter: [mertpolat](https://twitter.com/mertpolat)
+- LinkedIn: [mertpolat](https://linkedin.com/in/mertt-polat)
+- GitHub: [mertpolat](https://github.com/mert2m)
+- Twitter: [mertpolat](https://twitter.com/devmertops)
