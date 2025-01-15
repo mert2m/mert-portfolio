@@ -1,0 +1,42 @@
+{
+  "events": [
+    "antalya-devfest",
+    "atilim-agit",
+    "devfest-tekirdag",
+    "iu-bk-online-tech-talk",
+    "kou-bk",
+    "ytu-tech-talk"
+  ],
+  "order": {
+    "antalya-devfest": 1,
+    "devfest-tekirdag": 2,
+    "atilim-agit": 4,
+    "ytu-tech-talk": 3,
+    "iu-bk-online-tech-talk": 6,
+    "kou-bk": 5
+  },
+  "dates": {
+    "antalya-devfest": "December 2024",
+    "atilim-agit": "December 2024",
+    "devfest-tekirdag": "December 2024",
+    "iu-bk-online-tech-talk": "January 2025",
+    "kou-bk": "December 2024",
+    "ytu-tech-talk": "December 2024"
+  },
+  "locations": {
+    "antalya-devfest": "GDG Antalya DevFest, Antalya",
+    "atilim-agit": "Atılım University, Ankara",
+    "devfest-tekirdag": "Tekirdağ Namık Kemal University",
+    "iu-bk-online-tech-talk": "Istanbul University",
+    "kou-bk": "Kocaeli University",
+    "ytu-tech-talk": "Yildiz Technical University, Istanbul"
+  },
+  "images": {
+    "antalya-devfest": "antalya-devfest.jpeg",
+    "atilim-agit": "atilim-agit.jpeg",
+    "devfest-tekirdag": "devfest-tekirdag.jpeg",
+    "iu-bk-online-tech-talk": "iu-bk-online-tech-talk.jpeg",
+    "kou-bk": "kou-bk.jpeg",
+    "ytu-tech-talk": "ytu-tech-talk.jpeg"
+  }
+} 
