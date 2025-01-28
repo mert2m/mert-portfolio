@@ -19,7 +19,8 @@ const experiences: ExperienceItem[] = [
     description: [
       'I'm honing my skills in Hybrid Cloud and Multi-Cluster Kubernetes, building scalable cloud architectures. I provide DevOps-Cloud and Google Cloud consultancy, optimizing infrastructures for both domestic and international projects.',
       'I'm skilled in automating infrastructure with Terraform and applying IaC practices. I'm also proficient in Kubernetes, Istio, Anthos Service Mesh, and managing APIs with Apigee.',
-      'I focus on logging, monitoring, and network security, ensuring system integrity and implementing Cloud Security best practices. I also streamline CI/CD pipelines to accelerate software development and deployment. I'm always learning and applying CNCF tools to stay updated with cloud-native tech.'
+      'I focus on logging, monitoring, and network security, ensuring system integrity and implementing Cloud Security best practices. I also streamline CI/CD pipelines to accelerate software development and deployment.', 
+      'I'm always learning and applying CNCF tools to stay updated with cloud-native tech.'
     ]
   },
   {
@@ -28,7 +29,7 @@ const experiences: ExperienceItem[] = [
     role: 'DevOps Engineer',
     period: 'March 2023 - September 2023',
     description: [
-      'I'm honing my skills in DevOps & infrastructure, focusing on Kubernetes administration, Grafana, Prometheus, Zabbix, Ansible, ArgoCD, Graylog, Elasticstack, GitLab, HashiCorp Vault, OneSpan, Nexus, Longhorn, and Ceph.'
+      'I'm honing my skills in DevOps & infrastructure, focusing on Kubernetes administration, Grafana, Prometheus, Zabbix, Ansible, ArgoCD, Graylog, Elasticstack, GitLab, HashiCorp Vault, OneSpan, Nexus, Longhorn, and Ceph.',
       'I play a key role in DevSecOps, actively contributing to container and application security. I collaborate with PrismaCloud to strengthen security measures across our infrastructure, ensuring the safety of both our applications and containerized environments.'
     ]
   },
