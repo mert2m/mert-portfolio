@@ -12,17 +12,14 @@ interface ExperienceItem {
 
 const experiences: ExperienceItem[] = [
   {
-    company: 'ACEDEMAND IT Consulting Services',
+    company: 'ACEDEMAND IT Consulting Services - Google Premier Partner',
     location: 'Istanbul, Turkey',
     role: 'DevOps & Cloud Engineer',
     period: 'September 2023 - Present',
     description: [
-      'Architecting and implementing cloud infrastructure solutions on Google Cloud Platform and Microsoft Azure',
-      'Designing and maintaining CI/CD pipelines using Jenkins, GitHub Actions, and ArgoCD',
-      'Managing containerized applications with Kubernetes, including cluster setup and maintenance',
-      'Implementing Infrastructure as Code using Terraform and Ansible',
-      'Setting up monitoring and logging solutions with ELK Stack, Prometheus, and Grafana',
-      'Automating deployment processes and implementing DevOps best practices'
+      'I'm honing my skills in Hybrid Cloud and Multi-Cluster Kubernetes, building scalable cloud architectures. I provide DevOps-Cloud and Google Cloud consultancy, optimizing infrastructures for both domestic and international projects.',
+      'I'm skilled in automating infrastructure with Terraform and applying IaC practices. I'm also proficient in Kubernetes, Istio, Anthos Service Mesh, and managing APIs with Apigee.',
+      'I focus on logging, monitoring, and network security, ensuring system integrity and implementing Cloud Security best practices. I also streamline CI/CD pipelines to accelerate software development and deployment. I'm always learning and applying CNCF tools to stay updated with cloud-native tech.'
     ]
   },
   {
@@ -31,24 +28,17 @@ const experiences: ExperienceItem[] = [
     role: 'DevOps Engineer',
     period: 'March 2023 - September 2023',
     description: [
-      'Led infrastructure automation initiatives using Terraform and Ansible',
-      'Managed Kubernetes clusters and implemented service mesh solutions',
-      'Developed and maintained CI/CD pipelines for microservices architecture',
-      'Implemented monitoring and alerting systems using Prometheus and Grafana',
-      'Collaborated with development teams to optimize deployment processes'
+      'I'm honing my skills in DevOps & infrastructure, focusing on Kubernetes administration, Grafana, Prometheus, Zabbix, Ansible, ArgoCD, Graylog, Elasticstack, GitLab, HashiCorp Vault, OneSpan, Nexus, Longhorn, and Ceph.'
+      'I play a key role in DevSecOps, actively contributing to container and application security. I collaborate with PrismaCloud to strengthen security measures across our infrastructure, ensuring the safety of both our applications and containerized environments.'
     ]
   },
   {
     company: 'Formica',
     location: 'Istanbul, Turkey',
-    role: 'Cloud Engineer',
+    role: 'DevOps Engineer',
     period: 'June 2022 - March 2023',
     description: [
-      'Managed cloud infrastructure on AWS and Google Cloud Platform',
-      'Implemented containerization strategies using Docker and Kubernetes',
-      'Developed automation scripts for infrastructure management',
-      'Maintained CI/CD pipelines and deployment processes',
-      'Collaborated on cloud security implementations and best practices'
+      'I've improved my skills in areas like Docker, Kubernetes, Helm, Ansible, Heroku, RabbitMQ, Apache Kafka, Redis, Grafana, Prometheus, Traefik, MongoDB, and Go. I've also gained experience with CI/CD processes and learned how Elasticsearch works.'
     ]
   }
 ];
