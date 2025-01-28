@@ -36,8 +36,8 @@ const experiences: ExperienceItem[] = [
     {
       company: 'Formica',
       location: 'Istanbul, Turkey',
-      role: 'DevOps Engineer',
-      period: 'August 2022 - November 2023',
+      role: 'DevOps Intern',
+      period: 'August 2022 - November 2022',
       description: [
         "I've improved my skills in areas like Docker, Kubernetes, Helm, Ansible, Heroku, RabbitMQ, Apache Kafka, Redis, Grafana, Prometheus, Traefik, MongoDB, and Go. I've also gained experience with CI/CD processes and learned how Elasticsearch works."
       ]
