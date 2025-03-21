@@ -42,8 +42,8 @@ const About = () => {
                 Cloud Engineer & DevOps Specialist
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-6">
-                I'm a passionate Cloud Engineer with expertise in Google Cloud Platform and modern DevOps practices. 
-                Currently working at ACEDEMAND IT Consulting Services, I help organizations build and maintain 
+                I'm a passionate Cloud & Platform Engineer with expertise in Google Cloud Platform - AWS and modern DevOps practices. 
+                Currently working at Sufle, I help organizations build and maintain 
                 scalable cloud infrastructure and implement efficient CI/CD pipelines.
               </p>
               <p className="text-gray-600 dark:text-gray-300">
