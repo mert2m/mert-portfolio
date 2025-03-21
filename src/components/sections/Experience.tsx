@@ -27,7 +27,7 @@ const experiences: ExperienceItem[] = [
       company: 'ACEDEMAND IT Consulting Services - Google Premier Partner',
       location: 'Istanbul, Turkey',
       role: 'DevOps & Cloud Engineer',
-      period: 'March 2024 - Present',
+      period: 'March 2024 - March 2025',
       description: [
         "I'm honing my skills in Hybrid Cloud and Multi-Cluster Kubernetes, building scalable cloud architectures. I provide DevOps-Cloud and Google Cloud consultancy, optimizing infrastructures for both domestic and international projects.",
         "I'm skilled in automating infrastructure with Terraform and applying IaC practices. I'm also proficient in Kubernetes, Istio, Anthos Service Mesh, and managing APIs with Apigee.",
