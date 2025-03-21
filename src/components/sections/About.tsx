@@ -39,7 +39,7 @@ const About = () => {
               transition={{ duration: 0.5 }}
             >
               <h3 className="text-2xl font-semibold mb-4">
-                Cloud Engineer & DevOps Specialist
+                Cloud & Platform Engineer
               </h3>
               <p className="text-gray-600 dark:text-gray-300 mb-6">
                 I'm a passionate Cloud & Platform Engineer with expertise in Google Cloud Platform - AWS and modern DevOps practices. 
