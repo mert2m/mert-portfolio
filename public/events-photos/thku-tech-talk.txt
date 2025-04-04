@@ -1,0 +1,4 @@
+Last Thursday, I had the pleasure of speaking at the Tech Talk event organized by the University of Turkish Aeronautical Association EcoDrive Club.
+We had an engaging discussion about DevOps, Google Cloud, and DevSecOps, sharing insights and exchanging ideas on these key topics.
+A big thank you to the University of Turkish Aeronautical Association EcoDrive Club for hosting this event, and a special thanks to Eda Darmaz for her incredible efforts in making it happen! 🚀
+#DevOps #GoogleCloud #DevSecOps #Cloud #Infrastructure #TechTalk
