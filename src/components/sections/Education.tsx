@@ -32,7 +32,7 @@ const certifications: EducationItem[] = [
   {
     school: 'Google',
     degree: 'Google Cloud SecOps',
-    period: '2023',
+    period: '2024',
     type: 'certification',
     location: 'Google Cloud'
   },
@@ -49,6 +49,13 @@ const certifications: EducationItem[] = [
     period: '2023',
     type: 'certification',
     location: 'Network Security'
+  },
+  {
+    school: 'AWS',
+    degree: 'Well Architected',
+    period: '2025',
+    type: 'certification',
+    location: 'AWS'
   }
 ];
 

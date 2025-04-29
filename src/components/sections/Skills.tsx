@@ -12,7 +12,7 @@ const skillCategories: SkillCategory[] = [
   {
     title: 'Cloud Platforms',
     icon: <FiCloud className="w-6 h-6" />,
-    skills: ['Google Cloud Platform', 'Microsoft Azure', 'AWS', 'Heroku', 'Anthos Service Mesh']
+    skills: ['Google Cloud Platform', 'AWS','Microsoft Azure', 'Heroku']
   },
   {
     title: 'Container Orchestration',
@@ -20,40 +20,40 @@ const skillCategories: SkillCategory[] = [
     skills: ['Kubernetes', 'Docker', 'Helm', 'ArgoCD', 'Istio', 'Traefik', 'Longhorn', 'Ceph']
   },
   {
-    title: 'Infrastructure as Code',
+    title: 'Architecture & Design',
+    icon: <FiBox className="w-6 h-6" />,
+    skills: ['System Architecture', 'Cloud solution design', 'Infrastructure Planning']
+  },
+  {
+    title: 'Automation & CI/CD',
     icon: <FiServer className="w-6 h-6" />,
-    skills: ['Terraform', 'Ansible', 'AWX', 'HashiCorp Vault', 'GitLab', 'OneSpan']
+    skills: ['Terraform', 'Ansible', 'AWX', 'GitOps', 'ArgoCD', 'Jenkins','Helm']
   },
   {
-    title: 'CI/CD & Version Control',
+    title: 'Observabilityl',
     icon: <FiGitBranch className="w-6 h-6" />,
-    skills: ['Jenkins', 'GitHub Actions', 'GitLab CI', 'Nexus', 'Apigee']
+    skills: ['Prometheus', 'Grafana', 'Zabbix', 'Graylog', 'Elasticstack']
   },
   {
-    title: 'Monitoring & Logging',
-    icon: <FiActivity className="w-6 h-6" />,
-    skills: ['Prometheus', 'Grafana', 'ELK Stack', 'Graylog', 'Elasticstack']
+    title: 'Networking',
+    icon: <FiLayers className="w-6 h-6" />,
+    skills: ['Istio', 'Apache Kafka']
+  },
+  {
+    title: 'Networking & API & Security',
+    icon: <FiShield className="w-6 h-6" />,
+    skills: ['Apigee', 'Istio', 'PrismaCloud', 'HashiCorp Vault']
+  },
+  {
+    title: 'Programming & Scripting',
+    icon: <FiCode className="w-6 h-6" />,
+    skills: ['Python', 'Go', 'Bash', 'REST APIs']
   },
   {
     title: 'Storage & Data Management',
     icon: <FiDatabase className="w-6 h-6" />,
     skills: ['MongoDB', 'Redis', 'PostgreSQL', 'Longhorn', 'Ceph']
   },
-  {
-    title: 'Message Queuing',
-    icon: <FiLayers className="w-6 h-6" />,
-    skills: ['RabbitMQ', 'Apache Kafka']
-  },
-  {
-    title: 'API & Security',
-    icon: <FiShield className="w-6 h-6" />,
-    skills: ['Apigee', 'OAuth/OIDC', 'PrismaCloud', 'HashiCorp Vault']
-  },
-  {
-    title: 'Programming & Scripting',
-    icon: <FiCode className="w-6 h-6" />,
-    skills: ['Python', 'Go', 'Bash', 'REST APIs']
-  }
 ];
 
 const Skills = () => {
