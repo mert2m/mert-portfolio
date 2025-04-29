@@ -14,7 +14,7 @@ const experiences: ExperienceItem[] = [
     {
       company: 'Sufle',
       location: 'Istanbul, Turkey',
-      role: 'Cloud & Platform Engineer',
+      role: 'Mid. Cloud & Platform Engineer',
       period: 'March 2025 - Present',
       description: [
         "I'm specializing in Hybrid Cloud and Multi-Cluster Kubernetes, designing scalable cloud architectures with a strong focus on AWS technologies. At Sufle, I provide support to dedicated customers and help software teams optimize their cloud environments.",
@@ -38,7 +38,7 @@ const experiences: ExperienceItem[] = [
     {
       company: 'Zip Turkey',
       location: 'Istanbul, Turkey',
-      role: 'DevOps Engineer',
+      role: 'Junior Infrastructure Architect',
       period: 'May 2023 - March 2024',
       description: [
         "I'm honing my skills in DevOps & infrastructure, focusing on Kubernetes administration, Grafana, Prometheus, Zabbix, Ansible, ArgoCD, Graylog, Elasticstack, GitLab, HashiCorp Vault, OneSpan, Nexus, Longhorn, and Ceph.",
